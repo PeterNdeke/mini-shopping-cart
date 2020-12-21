@@ -4,7 +4,7 @@
 
 ## Features
 
-* Laravel 5.6
+* Laravel framework
 * Vue + VueRouter + Vuex
 * Pages with custom layouts
 * Login, register
