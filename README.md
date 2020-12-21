@@ -16,7 +16,7 @@
 
 ## Installation
 
-* `git clone https://github.com/cesaramirez/mini-shopping-cart.git`
+* `git clone https://github.com/PeterNdeke/mini-shopping-cart.git`
 * `cd mini-shopping-cart` or name that you defined
 * `cp .env.example .env`
 * `composer install`
